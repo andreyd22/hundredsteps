@@ -16,7 +16,7 @@ group :production do
 end
 group :test do
   gem 'rspec-rails'
-  gem 'webrat'
+  #gem 'webrat'
   gem 'capybara', '1.1.2'
 end
 # Gems used only for assets and not required
