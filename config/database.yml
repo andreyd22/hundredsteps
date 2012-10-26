@@ -17,5 +17,9 @@ test:
 
 production:
     adapter: postgresql
-    database: hundredsteps_production
-    host: localhost
+    database: de8per0ffae9l8
+    host: ec2-54-243-249-13.compute-1.amazonaws.com
+    user: nerzkusnrpfldy
+    password: 1R2pNDrpShCJ3fhsGIrZtPkCG
+    port: 5432
+    
