@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails', '3.2.8'
-gem 'pg' #, '0.12.2'
+gem 'pg' , '0.12.2'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
@@ -15,7 +15,7 @@ group :development do
   gem 'spork', '0.9.2'
 end
 group :production do
-#  gem 'pg', '0.12.2'
+  gem 'pg', '0.12.2'
 end
 group :test do
   #gem 'rspec-rails'
